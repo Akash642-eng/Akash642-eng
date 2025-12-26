@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Akash N</h1>
+<h1 align="center">Hi 👋 I'm Akash </h1>
 <p align="center">DevOps & Python Engineer | AWS • Docker • Kubernetes</p>
 
 <p align="center">
