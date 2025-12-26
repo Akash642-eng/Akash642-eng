@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="assets/banner1.png" width="100%" />
+  <img 
+    src="assets/banner.png" 
+    width="100%" 
+    height="180"
+    style="object-fit: cover"
+  />
 </p>
+
 
 <h1 align="center">Hi 👋 I'm Akash N</h1>
 <p align="center">DevOps & Python Engineer | AWS • Docker • Kubernetes</p>
