@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Akash642-eng/Akash642-eng/main/assets/banner1.png" />
+<img src="https://raw.githubusercontent.com/Akash642-eng/Akash642-eng/assets/banner1.png" />
 
 
 <h1 align="center">Hi 👋 I'm Akash N</h1>
