@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/Akash642-eng/assets/banner1.png" />
-
+<p align="center">
+  <img src="assets/banner1.png" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋 I'm Akash N</h1>
 <p align="center">DevOps & Python Engineer | AWS • Docker • Kubernetes</p>
