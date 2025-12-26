@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="assets/banner.png" 
+    src="assets/banner1.png" 
     width="100%" 
     height="180"
     style="object-fit: cover"
