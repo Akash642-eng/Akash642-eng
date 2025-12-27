@@ -5,18 +5,18 @@
 **Architecting Scalable, Resilient, and Secure Cloud Ecosystems**
 
 <p align="center">
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
+  <img src="img.shields.io" alt="Status" />
+  <img src="img.shields.io" alt="Focus" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="linkedin.com">
-    <img src="img.shields.io" />
+  <a href="linkedin.com" target="_blank">
+    <img src="img.shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="img.shields.io" />
+  <a href="mailto:akash.devops@example.com">
+    <img src="img.shields.io" alt="Email" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ### 🚀 About Me
 - ⚡ **Current Focus:** Optimizing Large-Scale Kubernetes Clusters and GitOps workflows in 2025.
-- 🛡️ **Security:** Implementing DevSecOps pipelines with automated compliance and scanning.
+- 🛡️ **Security:** Implementing DevSecOps pipelines with automated vulnerability scanning (Trivy/Snyk).
 - ⚙️ **Philosophy:** Infrastructure as Code (IaC) is not an option—it's the standard.
 - 📊 **Metrics:** Obsessed with SLIs/SLOs and reducing Mean Time To Recovery (MTTR).
 
@@ -36,30 +36,22 @@
 
 <p align="left">
   <b>☁️ Cloud & Infrastructure</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="skillicons.dev" />
-  </a>
+  <img src="skillicons.dev" alt="Cloud Icons" />
 </p>
 
 <p align="left">
   <b>☸️ Containerization & Orchestration</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="skillicons.dev" />
-  </a>
+  <img src="skillicons.dev" alt="Orchestration Icons" />
 </p>
 
 <p align="left">
   <b>🔄 CI/CD & Automation</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="skillicons.dev" />
-  </a>
+  <img src="skillicons.dev" alt="CI/CD Icons" />
 </p>
 
 <p align="left">
   <b>📈 Monitoring & Logging</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="skillicons.dev" />
-  </a>
+  <img src="skillicons.dev" alt="Monitoring Icons" />
 </p>
 
 ---
@@ -67,19 +59,19 @@
 ### 📊 Performance & Contributions
 
 <p align="center">
-  <img width="495" src="github-readme-stats.vercel.app" />
-  <img width="360" src="github-readme-stats.vercel.app" />
+  <img width="48.5%" src="github-readme-stats.vercel.app" alt="GitHub Stats" />
+  <img width="48.5%" src="github-readme-stats.vercel.app" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="855" src="github-readme-streak-stats.herokuapp.com" />
+  <img width="100%" src="github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📝 Featured DevOps Repositories
 - 🛠️ [**K8s-Hardening-Kit**](github.com) - Security best practices for production clusters.
-- 🚀 [**Terraform-Module-Library**](github.com) - Reusable IaC modules for multi-cloud deployments.
+- 🚀 [**Terraform-Module-Library**](github.com) - Reusable IaC modules for multi-cloud.
 - 🔒 [**GitOps-Boilerplate**](github.com) - ArgoCD and Flux patterns for automated deployments.
 
 ---
@@ -88,5 +80,5 @@
   <img src="img.shields.io" />
   <img src="img.shields.io" />
   <br/>
-  <sub>© 2025 Akash. Professional Portfolio.</sub>
+  <sub>© 2025 Akash | Senior DevOps Engineer</sub>
 </div>
