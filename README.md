@@ -2,7 +2,7 @@
   <img 
     src="./assets/banner.png" 
     alt="DevOps Banner"
-    style="max-width: 100%; height: 700px; object-fit: cover;"
+    style="max-width: 100%; height: 500px; object-fit: cover;"
   />
 </p>
 
