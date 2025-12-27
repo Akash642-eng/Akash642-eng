@@ -5,12 +5,11 @@
 **Building Reliable, Automated, Cloud-Native Systems**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,python&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,python&theme=light">
-    <img alt="Skills" src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,python">
-  </picture>
+  <img src="https://img.shields.io/badge/DevOps-active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-automation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-natraj" target="_blank">
