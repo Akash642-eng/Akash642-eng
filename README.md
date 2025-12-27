@@ -12,9 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-natraj" target="_blank">
-  </a>
-  <a href="mailto:akashn916@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
