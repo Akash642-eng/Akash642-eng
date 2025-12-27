@@ -8,34 +8,19 @@
 **Building Reliable, Automated, Cloud-Native Systems**
 
 
-<!-- Row 1: Core Expertise (5) -->
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=devops&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnubash&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Terraform-0F172A?style=for-the-badge&logo=terraform&logoColor=38BDF8" />
 </p>
 
-<!-- Row 2: Cloud & Containers (4) -->
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/GCP-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=38BDF8" />
-</p>
-
-<!-- Row 3: CI/CD & IaC (3) -->
-<p align="center">
   <img src="https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge&logo=jenkins&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Terraform-0F172A?style=for-the-badge&logo=terraform&logoColor=38BDF8" />
-</p>
-
-<!-- Row 4: Monitoring (2) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-0F172A?style=for-the-badge&logo=prometheus&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Grafana-0F172A?style=for-the-badge&logo=grafana&logoColor=38BDF8" />
 </p>
 
 
