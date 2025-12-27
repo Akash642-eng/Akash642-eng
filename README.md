@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="DevOps Banner" />
+</p>
+
+
 <div align="center">
   
 # 👋 Hi, I'm Akash  
