@@ -1,9 +1,5 @@
 <p align="center">
-  <img 
-    src="./assets/banner.png" 
-    alt="DevOps Banner"
-    style="max-width: 100%; height: 500px; object-fit: cover;"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Akash%20|%20DevOps%20%26%20Python&fontSize=42&fontAlignY=35&color=0:0F172A,100:38BDF8" />
 </p>
 
 
