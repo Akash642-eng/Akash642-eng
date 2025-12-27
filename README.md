@@ -5,9 +5,11 @@
 **Building Reliable, Automated, Cloud-Native Systems**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-CI%2FCD%20%26%20IaC-purple?style=for-the-badge" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,python&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,python&theme=light">
+    <img alt="Skills" src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,python">
+  </picture>
 </p>
 
 <p align="center">
