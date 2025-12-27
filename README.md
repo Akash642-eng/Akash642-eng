@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="DevOps Banner" height="220" />
+  <img 
+    src="./assets/banner.png" 
+    alt="DevOps Banner"
+    style="max-width: 100%; height: 300px; object-fit: cover;"
+  />
 </p>
 
 
