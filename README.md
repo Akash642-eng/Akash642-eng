@@ -1,18 +1,18 @@
 <div align="center">
 
 # 👋 Hi, I'm Akash  
-### Senior DevOps & Platform Engineer  
-**Architecting Scalable • Resilient • Secure Cloud Platforms**
+### DevOps & Cloud Engineer  
+**Building Reliable, Automated, and Scalable Cloud Systems**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Kubernetes-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20GitOps-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-CI%2FCD%20%26%20IaC-purple?style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:akash.devops@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
@@ -25,14 +25,19 @@
 
 ## 🚀 About Me
 
-I am a **Senior DevOps & Platform Engineer** focused on designing and operating  
-**highly available, secure, and scalable cloud platforms**.
+I’m a **DevOps & Cloud Engineer** with hands-on experience in  
+**cloud infrastructure, CI/CD automation, and containerized systems**.
 
-- ⚡ **Current Focus (2025):** Platform engineering, large-scale Kubernetes, GitOps
-- 🛡️ **Security:** DevSecOps pipelines with automated image & IaC scanning
-- ⚙️ **Philosophy:** Infrastructure is code, platforms are products
-- 📊 **Reliability:** SLIs, SLOs, error budgets, and MTTR reduction
-- 🧠 **Mindset:** Production-first, automation-driven, cost-aware
+I focus on building systems that are:
+- Reliable and easy to operate
+- Automated from code to deployment
+- Designed with monitoring and security in mind
+
+- ⚙️ Working with **AWS, Docker, Kubernetes**
+- 🔄 Building **CI/CD pipelines** using GitHub Actions & Jenkins
+- 🧱 Managing infrastructure using **Terraform**
+- 🐍 Using **Python & Bash** for automation
+- 📊 Implementing **basic monitoring & alerting**
 
 ---
 
@@ -65,7 +70,19 @@ I am a **Senior DevOps & Platform Engineer** focused on designing and operating
 
 ---
 
-## 📊 Performance & Contributions
+## 📂 What You’ll Find Here
+
+- End-to-end **CI/CD pipeline projects**
+- **Docker & Kubernetes** deployments
+- **Terraform-based AWS infrastructure**
+- Python automation for DevOps tasks
+- Linux troubleshooting & hands-on labs
+
+All projects are built to reflect **real DevOps workflows**, not just examples.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash642-eng&show_icons=true&theme=tokyonight" />
@@ -78,40 +95,21 @@ I am a **Senior DevOps & Platform Engineer** focused on designing and operating
 
 ---
 
-## 🧱 Platform Engineering Focus Areas
+## 🌱 Currently Learning
 
-- Kubernetes platform design (EKS)
-- GitOps workflows (ArgoCD / Flux)
-- Secure CI/CD pipelines
-- Terraform module design
-- Observability & alerting strategy
-- Cloud cost optimization
-- Incident response & postmortems
-
----
-
-## 📝 Featured DevOps Repositories
-
-- 🛠️ **K8s-Hardening-Kit**  
-  Kubernetes security best practices for production workloads
-
-- 🚀 **Terraform-Module-Library**  
-  Reusable, versioned Terraform modules for AWS infrastructure
-
-- 🔒 **GitOps-Boilerplate**  
-  Production-ready GitOps patterns using ArgoCD
-
-- ⚙️ **Python-DevOps-Automation**  
-  Python tools for automation, monitoring, and reliability
+- Advanced Kubernetes (EKS)
+- GitOps fundamentals (Argo CD)
+- Cloud security best practices
+- Observability and alerting strategies
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Built%20With-DevOps%20Mindset-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Production-First-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Growing-DevOps%20Engineer-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge" />
 
 <br/>
-<sub>© 2025 Akash | Senior DevOps & Platform Engineer</sub>
+<sub>© 2025 Akash | DevOps & Cloud Engineer</sub>
 
 </div>
