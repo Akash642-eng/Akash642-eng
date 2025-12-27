@@ -1,20 +1,20 @@
 <div align="center">
-
+  
 # 👋 Hi, I'm Akash  
-### DevOps & Cloud Engineer  
-**Building Reliable, Automated, and Scalable Cloud Systems**
+### DevOps Engineer | Python Automation  
+**Building Reliable, Automated, Cloud-Native Systems**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Kubernetes-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-CI%2FCD%20%26%20IaC-purple?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-natraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:akash.devops@example.com">
+  <a href="mailto:akashn916@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -25,37 +25,47 @@
 
 ## 🚀 About Me
 
-I’m a **DevOps & Cloud Engineer** with hands-on experience in  
-**cloud infrastructure, CI/CD automation, and containerized systems**.
+I’m a **Computer Science (Information Science & Engineering) graduate** who transitioned into a  
+**DevOps & Python-focused engineering role**, working on **real production systems**.
 
-I focus on building systems that are:
-- Reliable and easy to operate
-- Automated from code to deployment
-- Designed with monitoring and security in mind
+With **3.5+ years of industry experience**, I’ve supported and automated Linux-based cloud and on-prem environments, handled production incidents, and worked closely with DevOps, application, and infrastructure teams to keep systems **stable, scalable, and reliable**.
 
-- ⚙️ Working with **AWS, Docker, Kubernetes**
-- 🔄 Building **CI/CD pipelines** using GitHub Actions & Jenkins
-- 🧱 Managing infrastructure using **Terraform**
-- 🐍 Using **Python & Bash** for automation
-- 📊 Implementing **basic monitoring & alerting**
+I enjoy understanding systems **end-to-end** — from infrastructure and CI/CD pipelines to monitoring, incident response, and automation — and improving them through **clean engineering and automation**.
+
+**In short:**  
+> A computer science engineer who applies Python and DevOps practices to build and operate reliable systems.
 
 ---
 
-## 🛠️ Technical Stack
+### 💼 What I Actually Do
+
+- ☁️ Design and support **AWS & cloud infrastructure**
+- 🔄 Build and maintain **CI/CD pipelines (Jenkins, GitHub Actions)**
+- 🐳 Containerize applications using **Docker**
+- ☸️ Work with **Kubernetes & OpenShift**
+- 🧱 Write **Infrastructure as Code (Terraform)**
+- 🐍 Automate operational tasks using **Python & Shell**
+- 📊 Implement **monitoring & alerting (Prometheus, Grafana)**
+- 🚨 Handle **production incidents, RCA, SLA, and MTTR reduction**
+- 🐧 Daily hands-on work with **Linux systems**
+
+---
+
+## 🛠️ Tools & Technologies
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,linux" />
 </p>
 
 ### ☸️ Containers & Orchestration
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,openshift" />
 </p>
 
 ### 🔄 CI/CD & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,bash" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,bash" />
 </p>
 
 ### 📈 Monitoring & Observability
@@ -70,15 +80,19 @@ I focus on building systems that are:
 
 ---
 
-## 📂 What You’ll Find Here
+## 📂 What You’ll Find in My GitHub
 
-- End-to-end **CI/CD pipeline projects**
-- **Docker & Kubernetes** deployments
-- **Terraform-based AWS infrastructure**
-- Python automation for DevOps tasks
-- Linux troubleshooting & hands-on labs
+This GitHub reflects **real DevOps engineering practices**, not just tutorials:
 
-All projects are built to reflect **real DevOps workflows**, not just examples.
+- End-to-end **CI/CD pipelines**
+- Dockerized applications
+- Kubernetes deployment examples
+- Terraform infrastructure labs
+- Monitoring & alerting setups
+- Python automation scripts
+- Linux troubleshooting & operational scripts
+
+Each repository focuses on **clarity, reproducibility, and real-world relevance**.
 
 ---
 
@@ -95,21 +109,22 @@ All projects are built to reflect **real DevOps workflows**, not just examples.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
-- Advanced Kubernetes (EKS)
-- GitOps fundamentals (Argo CD)
-- Cloud security best practices
-- Observability and alerting strategies
+- Advanced Kubernetes & EKS concepts
+- CI/CD design patterns & security
+- Cloud security fundamentals
+- Alerting, SLOs, and reliability practices
+- Writing cleaner, production-ready Python automation
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Growing-DevOps%20Engineer-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Science-Engineer-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevOps-Professional-blue?style=for-the-badge" />
 
 <br/>
-<sub>© 2025 Akash | DevOps & Cloud Engineer</sub>
+<sub>© 2025 Akash | DevOps & Python Engineer</sub>
 
 </div>
