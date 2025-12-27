@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Akash%20DevOps%20%26%20Python&fontSize=40&fontAlignY=35&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Akash%20DevOps%20Python&fontSize=48&color=0:1e293b,100:0ea5e9" />
 </p>
+
 
 
 
