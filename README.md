@@ -5,10 +5,12 @@
 **Building Reliable, Automated, Cloud-Native Systems**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-automation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=devops&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
 </p>
+
 
 
 <p align="center">
