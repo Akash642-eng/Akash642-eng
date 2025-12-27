@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=38BDF8" />
 </p>
 
 
