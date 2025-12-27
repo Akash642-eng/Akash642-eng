@@ -9,7 +9,6 @@
 
 <div align="center">
   
-# 👋 Hi, I'm Akash  
 ### DevOps | Python Engineer  
 **Building Reliable, Automated, Cloud-Native Systems**
 
