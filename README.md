@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=I%20am%20Akash&fontSize=54&fontColor=ffffff&stroke=38bdf8&strokeWidth=2&color=0:020617,100:0f172a" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=155&text=I%20am%20Akash&fontSize=54&fontColor=ffffff&stroke=38bdf8&strokeWidth=2&color=0:020617,100:020617" />
 </p>
 
 
