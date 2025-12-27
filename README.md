@@ -99,12 +99,11 @@ Each repository focuses on **clarity, reproducibility, and real-world relevance*
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash642-eng&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash642-eng&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash642-eng&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash642-eng&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akash642-eng&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
