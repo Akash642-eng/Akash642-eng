@@ -123,9 +123,8 @@ Each repository focuses on **clarity, reproducibility, and real-world relevance*
 <img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Reliability-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8" />
 
-<br/><br/>
 
-<sub>© 2025 Akash</sub>
+<sub>Akash</sub>
 
 </div>
 
