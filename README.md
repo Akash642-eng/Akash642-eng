@@ -25,12 +25,13 @@
 
 ## 🚀 About Me
 
-I’m a **Computer Science (Information Science & Engineering) graduate** who transitioned into a  
-**DevOps & Python-focused engineering role**, working on **real production systems**.
+I’m a Computer Science (Information Science & Engineering) graduate who transitioned into a  
+DevOps & Python-focused engineering role**, working on real production systems.
 
-With **3.5+ years of industry experience**, I’ve supported and automated Linux-based cloud and on-prem environments, handled production incidents, and worked closely with DevOps, application, and infrastructure teams to keep systems **stable, scalable, and reliable**.
-
-I enjoy understanding systems **end-to-end** — from infrastructure and CI/CD pipelines to monitoring, incident response, and automation — and improving them through **clean engineering and automation**.
+I work on Linux-based production environments across cloud and on-prem infrastructure.
+My experience includes CI/CD pipeline design, container platforms, cloud-native systems, and Python scripting.
+I build robust, repeatable deployment workflows aligned with modern DevOps practices.
+My focus is on automation, observability, and operational resilience.
 
 **In short:**  
 > A computer science engineer who applies Python and DevOps practices to build and operate reliable systems.
