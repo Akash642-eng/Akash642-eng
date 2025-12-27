@@ -96,14 +96,6 @@ Each repository focuses on **clarity, reproducibility, and real-world relevance*
 
 ---
 
-## 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akash642-eng&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Akash642-eng&theme=tokyonight&hide_border=true" />
-
----
-
 ## 🌱 Currently Improving
 
 - Advanced Kubernetes & EKS concepts
