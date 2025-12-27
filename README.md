@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Akash  
-### DevOps Engineer | Python Automation  
+### DevOps | Python Engineer  
 **Building Reliable, Automated, Cloud-Native Systems**
 
 <p align="center">
