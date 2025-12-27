@@ -60,7 +60,7 @@ I enjoy understanding systems **end-to-end** — from infrastructure and CI/CD p
 
 ### ☸️ Containers & Orchestration
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,openshift" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift" />
 </p>
 
 ### 🔄 CI/CD & Automation
