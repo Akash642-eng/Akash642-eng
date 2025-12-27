@@ -118,18 +118,15 @@ Each repository focuses on **clarity, reproducibility, and real-world relevance*
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Built%20with-DevOps%20Mindset-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Reliability-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=devops&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Reliability-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8" />
 
 <br/><br/>
-
-<sub>
-Engineering reliable systems through automation, simplicity, and continuous improvement.
-</sub>
-
-<br/>
 
 <sub>© 2025 Akash</sub>
 
 </div>
+
 
