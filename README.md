@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Akash%20DevOps%20Python&fontSize=48&color=0:1e293b,100:0ea5e9" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=I%20am%20Akash&fontSize=52&color=gradient" />
 </p>
-
 
 
 
