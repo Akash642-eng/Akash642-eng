@@ -90,22 +90,6 @@ I work on Linux-based production environments across cloud and on-prem infrastru
 
 ---
 
-## 📂 What You’ll Find in My GitHub
-
-This GitHub reflects **real DevOps engineering practices**, not just tutorials:
-
-- End-to-end **CI/CD pipelines**
-- Dockerized applications
-- Kubernetes deployment examples
-- Terraform infrastructure labs
-- Monitoring & alerting setups
-- Python automation scripts
-- Linux troubleshooting & operational scripts
-
-Each repository focuses on **clarity, reproducibility, and real-world relevance**.
-
----
-
 ## 🌱 Currently Improving
 
 - Advanced Kubernetes & EKS concepts
