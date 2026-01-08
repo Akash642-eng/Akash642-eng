@@ -100,7 +100,6 @@ I work on Linux-based production environments across cloud and on-prem infrastru
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=devops&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Reliability-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8" />
