@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-  
-### DevOps | Python Engineer  
+
 **Building Reliable, Automated, Cloud-Native Systems**
 
 
