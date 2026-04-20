@@ -47,44 +47,13 @@ I work on Linux-based production environments across cloud and on-prem infrastru
 
 ### 💼 What I Actually Do
 
-- ☁️ Design and support **AWS & cloud infrastructure**
 - 🔄 Build and maintain **CI/CD pipelines (Jenkins, GitHub Actions)**
 - 🐳 Containerize applications using **Docker**
-- ☸️ Work with **Kubernetes & OpenShift**
 - 🧱 Write **Infrastructure as Code (Terraform)**
-- 🐍 Automate operational tasks using **Python & Shell**
+- 🐍 Automate operational tasks using **Python**
 - 📊 Implement **monitoring & alerting (Prometheus, Grafana)**
 - 🚨 Handle **production incidents, RCA, SLA, and MTTR reduction**
 - 🐧 Daily hands-on work with **Linux systems**
-
----
-
-## 🛠️ Tools & Technologies
-
-### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,linux" />
-</p>
-
-### ☸️ Containers & Orchestration
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift" />
-</p>
-
-### 🔄 CI/CD & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,bash" />
-</p>
-
-### 📈 Monitoring & Observability
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
-### 🐍 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
 ---
 
