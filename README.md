@@ -138,9 +138,6 @@ I'm interested in practical engineering, automation, cloud-native platforms, and
 <a href="https://www.linkedin.com/in/akash-natraj">
   <img src="https://img.shields.io/badge/LinkedIn-Akash%20Natraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akash Natraj on LinkedIn" />
 </a>
-<a href="https://github.com/Akash642-eng">
-  <img src="https://img.shields.io/badge/GitHub-Akash642--eng-181717?style=for-the-badge&logo=github&logoColor=white" alt="Akash642-eng on GitHub" />
-</a>
 
 <br/><br/>
 
