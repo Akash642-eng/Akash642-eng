@@ -105,10 +105,6 @@ A repository for Python programming practice and ongoing learning.
 
 <div align="center">
 
-<a href="https://github.com/Akash642-eng?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
-</a>
-
 </div>
 
 ## ⚙️ What I'm Working to Improve
